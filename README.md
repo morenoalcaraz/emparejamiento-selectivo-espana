@@ -93,3 +93,27 @@ El código proporcionado reproduce
 - [x] Todas las tablas y figuras del trabajo.
 - [ ] Tablas y figuras seleccionadas en el trabajo, como se explica y justifica a continuación.
 
+Se señala que los archivos de código están en `do` y las figuras están en `graphs`.
+
+| Figura/Tabla #         | Archivo .do                        |
+|------------------------|------------------------------------|
+| Figura 1a              | 04_assortative_mating_over_time.do |
+| Figura 1b              | 05_stand_cont_tables.do            |
+| Figura 1c              | 04_assortative_mating_over_time.do |
+| Figura 1d              | 04_assortative_mating_over_time.do |
+| Tabla 1                | 06_brecha_salarial.do              |
+| Tabla 2                | 06_brecha_salarial.do              |
+| Tabla 3                | 06_brecha_salarial.do              |
+| Tabla 4 (Apéndice A)   | 02_descriptive_stats.do            |
+| Tabla 5 (Apéndice B)   | 06_brecha_salarial.do              |
+| Tabla 6 (Apéndice B)   | 06_brecha_salarial.do              |
+| Tabla 7 (Apéndice C)   | 06_brecha_salarial.do              |
+| Tabla 8 (Apéndice C)   | 06_brecha_salarial.do              |
+| Tabla 9 (Apéndice C)   | 06_brecha_salarial.do              |
+| Tabla 10 (Apéndice C)  | 06_brecha_salarial.do              |
+| Figura 2a (Apéndice D) | 06_brecha_salarial.do              |
+| Figura 2b (Apéndice D) | 06_brecha_salarial.do              |
+| Figura 2c (Apéndice D) | 06_brecha_salarial.do              |
+| Figura 2d (Apéndice D) | 06_brecha_salarial.do              |
+| Figura 3a (Apéndice D) | 06_brecha_salarial.do              |
+| Figura 3b (Apéndice D) | 06_brecha_salarial.do              |
