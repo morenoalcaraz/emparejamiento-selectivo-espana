@@ -70,4 +70,26 @@ Se deben crear 4 carpetas en el repositorio para replicar correctamente el códi
   - El código nombrado `04_assortative_mating_over_time.do` crea las medidas de emparejamiento selectivo y su evolución a lo largo del tiempo.
   - El código nombrado `05_stand_cont_tables.do` estandariza la primera medida de emparejamiento selectivo para tener en cuenta las dinámicas temporales de nivel de estudios.
   - El código nombrado `06_brecha_salarial.do` lleva a cabo las regresiones del trabajo.
+- La carpeta `graphs` contiene todas las figuras generadas por el código.
+- La carpeta `log` contiene el único archivo .log generado por el código.
+
+### Licencia para el Código
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+El código tiene licencia [GNU v3](https://www.gnu.org/licenses/gpl-3.0.html). Ver [LICENSE.txt](LICENSE.txt) para más detalles.
+
+## Instrucciones para replicadores
+
+- Crear las 4 carpetas necesarias (`data`, `do`, `graphs` y `log`).
+- Editar el directorio de trabajo en cada archivo `.do` para que lleve a cada carpeta indicada al final del directorio original.
+- Correr el archivo `00_master_do_file.do`.
+
+## Lista de tablas y programas
+
+El código proporcionado reproduce
+
+- [x] Todos los números proporcionados en el texto del trabajo.
+- [x] Todas las tablas y figuras del trabajo.
+- [ ] Tablas y figuras seleccionadas en el trabajo, como se explica y justifica a continuación.
 
