@@ -9,9 +9,9 @@
 clear all
 capture log close
 set more off
-cd "/Users/carmenmoreno/Library/CloudStorage/Dropbox/TFG/Stata/ECV"
+cd "/Users/carmenmoreno/Library/CloudStorage/Dropbox/TFG/Stata/ECV/data"
 
-use "data/panel_ass.dta", clear
+use "panel_ass.dta", clear
 
 **# Estadísticos descriptivas por tipo de pareja -------------------------------
 
