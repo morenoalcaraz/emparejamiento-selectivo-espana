@@ -57,7 +57,7 @@ El código se ejecutó por última vez en un (CAMBIAR laptop Intel Core i9 de 8 
 
 ## Descripción de los programas/código
 
-Se deben crear 4 carpetas en el repositorio para replicar correctamente el código: `data`, `do`, `graphs` y `log`
+Se debe crear una carpeta llamada `ECV`. Dentro de esta se deben crear otras 4 carpetas para replicar correctamente el código: `data`, `do`, `graphs` y `log`
 
 - La carpeta `data` recoge las bases de datos utilizadas en el trabajo y contiene otras dos carpetas: `raw` y `temp`.
   - La carpeta `raw` contiene 16 carpetas adicionales, una para cada año desde 2008 hasta 2023 incluidos. Aquí se tienen que guardar los datos sin procesar descargados de la ECV para cada año, con el nombre de descarga que viene por defecto.
@@ -82,7 +82,7 @@ El código tiene licencia [GNU v3](https://www.gnu.org/licenses/gpl-3.0.html). V
 ## Instrucciones para replicadores
 
 - Crear las 4 carpetas necesarias (`data`, `do`, `graphs` y `log`).
-- Editar el directorio de trabajo en cada archivo `.do` para que lleve a cada carpeta indicada al final del directorio original.
+- Editar el directorio de trabajo en cada archivo `.do` para que lleve a la carpeta indicada al final de cada directorio original.
 - Correr el archivo `00_master_do_file.do`.
 
 ## Lista de tablas y programas
