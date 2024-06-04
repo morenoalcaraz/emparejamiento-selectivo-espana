@@ -1,8 +1,8 @@
-# Paquete de replicación para << El Impacto del Emparejamiento Selectivo sobre los Diferenciales Salariales Intra-Parejas >>
+# Paquete de replicación para "El Impacto del Emparejamiento Selectivo sobre los Diferenciales Salariales Intra-Parejas"
 
 ## Resumen
 
-El código en este paquete de replicación permite obtener todos los resultados del trabajo de fin de grado << El Impacto del Emparejamiento Selectivo sobre los Diferenciales Salariales Intra-Parejas >>, desde la preparación de los datos hasta los resultados finales. Se puede acceder a los datos necesarios para obtener el código fácilmente, como se describirá a continuación. El código completo tarda en correr varias horas, principalmente por `01_data_prep_over_time.do`.
+El código en este paquete de replicación permite obtener todos los resultados del trabajo de fin de grado "El Impacto del Emparejamiento Selectivo sobre los Diferenciales Salariales Intra-Parejas", desde la preparación de los datos hasta los resultados finales. Se puede acceder a los datos necesarios para obtener el código fácilmente, como se describirá a continuación. El código completo tarda en correr varias horas, principalmente por `01_data_prep_over_time.do`.
 
 ## Declaraciones de Disponibilidad y Procedencia de los Datos
 
