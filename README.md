@@ -20,7 +20,7 @@ El código en este paquete de replicación permite obtener todos los resultados 
 
 #### Encuesta de Condiciomes de Vida (fuente: INE)
 
-Se sacan los microdatos de la Encuesta de Condiciones de Vida (ECV) publicada por el Instituto Nacional de Estadística (INE) para cada año disponible desde 2008. Los datos anuales de la ECV se pueden obtener en [INE ECV](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=resultados&idp=1254735976608#_tabs-1254736195153). Se tiene que guradar en el repositorio con el nombre de descarga en las carpetas correspondientes para cada año `data/raw`.
+Se obtienen los microdatos de la Encuesta de Condiciones de Vida (ECV) publicada por el Instituto Nacional de Estadística (INE) para cada año disponible desde 2008. Los datos anuales de la ECV se pueden obtener en [INE ECV](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=resultados&idp=1254735976608#_tabs-1254736195153). Se tiene que guradar en el repositorio con el nombre de descarga en las carpetas correspondientes para cada año `data/raw`.
 
 #### Índice de Precios al Consumidor (fuente: INE)
 
