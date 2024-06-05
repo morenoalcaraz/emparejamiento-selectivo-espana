@@ -53,7 +53,7 @@ El tiempo aproximado necesario para reproducir los análisis en una máquina de 
 
 #### Detalles
 
-El código se ejecutó por última vez en un (CAMBIAR laptop Intel Core i9 de 8 núcleos a 2,4 GHz con 64 GB de RAM, ejecutando MacOS versión 11.6.) La computación tardó de 3 a 6 horas.
+El código se ejecutó por última vez en un (portátil Intel Core i5 de doble núcleo a 2,3 GHz con 8 GB de RAM, ejecutando MacOS versión 13.3.1). La computación tardó de 3 a 6 horas.
 
 ## Descripción de los programas/código
 
